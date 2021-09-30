@@ -1,6 +1,8 @@
+
 # :wave: The Basics of GitHub
 
 ## 🤓 Course overview and learning outcomes 
+![output](https://user-images.githubusercontent.com/91652568/135496583-9a9cc350-2611-40c4-aa9f-ba51ba358f04.png)
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
